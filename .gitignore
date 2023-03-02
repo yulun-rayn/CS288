@@ -3,6 +3,7 @@ data/
 saves/
 wikitext*
 multi30k*
+ptb*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
